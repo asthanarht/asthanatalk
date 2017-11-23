@@ -4,7 +4,7 @@ title = "My New Hugo Site"
 theme = "hugo-geo"
 disqusShortname = "shortcode-here"
 paginate = 5
-
+publishDir="docs"
 [taxonomies]
 	tag = "tags"
 	tutorial = "tutorials"
